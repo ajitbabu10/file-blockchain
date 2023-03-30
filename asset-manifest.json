@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/file-blockchain/static/css/main.a41b454d.css",
+    "main.js": "/file-blockchain/static/js/main.067438b4.js",
+    "index.html": "/file-blockchain/index.html",
+    "main.a41b454d.css.map": "/file-blockchain/static/css/main.a41b454d.css.map",
+    "main.067438b4.js.map": "/file-blockchain/static/js/main.067438b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a41b454d.css",
+    "static/js/main.067438b4.js"
+  ]
+}
